@@ -1,0 +1,315 @@
+[
+  {
+    "id": "kaohsiung",
+    "charges": [
+      {
+        "line": 3,
+        "quote": "每攤位免租金",
+        "kind": "pitch",
+        "amount": "0",
+        "basis": "event"
+      },
+      {
+        "line": 3,
+        "quote": "但須繳交清潔費500元/2天",
+        "kind": "service",
+        "amount": "500",
+        "basis": "event"
+      }
+    ],
+    "totals": {
+      "expense": "600",
+      "deposits": "0",
+      "cash": "600",
+      "known_cash": "600",
+      "margin": "75",
+      "units": 8
+    },
+    "score": {
+      "charges_exact": true,
+      "matched": 2,
+      "expected": 2,
+      "returned": 2,
+      "totals_match": {
+        "expense": true,
+        "deposits": true,
+        "cash": true,
+        "units": true
+      },
+      "all_exact": true
+    }
+  },
+  {
+    "id": "macao",
+    "charges": [
+      {
+        "line": 2,
+        "quote": "报名费用全免。",
+        "kind": "registration",
+        "amount": "0",
+        "basis": "event"
+      }
+    ],
+    "totals": {
+      "expense": null,
+      "deposits": "0",
+      "cash": null,
+      "known_cash": "90",
+      "margin": "23",
+      "units": null
+    },
+    "score": {
+      "charges_exact": true,
+      "matched": 1,
+      "expected": 1,
+      "returned": 1,
+      "totals_match": {
+        "expense": true,
+        "deposits": true,
+        "cash": true,
+        "units": true
+      },
+      "all_exact": true
+    }
+  },
+  {
+    "id": "manchester",
+    "charges": [
+      {
+        "line": 2,
+        "quote": "On Tuesday the first stall costs £32.42 per day.",
+        "kind": "pitch",
+        "amount": "32.42",
+        "basis": "day"
+      },
+      {
+        "line": 3,
+        "quote": "An additional stall on Tuesday costs another £10.88 per day.",
+        "kind": "extra_pitch",
+        "amount": "10.88",
+        "basis": "extra_stall_day"
+      }
+    ],
+    "totals": {
+      "expense": "50.00",
+      "deposits": "0",
+      "cash": "50.00",
+      "known_cash": "50.00",
+      "margin": "6.3100",
+      "units": 8
+    },
+    "score": {
+      "charges_exact": true,
+      "matched": 2,
+      "expected": 2,
+      "returned": 2,
+      "totals_match": {
+        "expense": true,
+        "deposits": true,
+        "cash": true,
+        "units": true
+      },
+      "all_exact": true
+    }
+  },
+  {
+    "id": "no-power",
+    "charges": [
+      {
+        "line": 1,
+        "quote": "纸上小集，两日标准摊每摊 180 元，已含两天场租。",
+        "kind": "pitch",
+        "amount": "180",
+        "basis": "event"
+      },
+      {
+        "line": 2,
+        "quote": "展具押金 300 元，按时归还且完好可全额退回。",
+        "kind": "deposit",
+        "amount": "300",
+        "basis": "event"
+      }
+    ],
+    "totals": {
+      "expense": "216",
+      "deposits": "300",
+      "cash": "516",
+      "known_cash": "516",
+      "margin": "15.800",
+      "units": 14
+    },
+    "score": {
+      "charges_exact": true,
+      "matched": 2,
+      "expected": 2,
+      "returned": 2,
+      "totals_match": {
+        "expense": true,
+        "deposits": true,
+        "cash": true,
+        "units": true
+      },
+      "all_exact": true
+    }
+  },
+  {
+    "id": "with-power",
+    "charges": [
+      {
+        "line": 1,
+        "quote": "纸上小集，两日标准摊每摊 180 元，已含两天场租。",
+        "kind": "pitch",
+        "amount": "180",
+        "basis": "event"
+      },
+      {
+        "line": 2,
+        "quote": "展具押金 300 元，按时归还且完好可全额退回。",
+        "kind": "deposit",
+        "amount": "300",
+        "basis": "event"
+      },
+      {
+        "line": 3,
+        "quote": "电源为选配，申请用电的摊位另付每天 20 元。",
+        "kind": "service",
+        "amount": "20",
+        "basis": "day"
+      }
+    ],
+    "totals": {
+      "expense": "256",
+      "deposits": "300",
+      "cash": "556",
+      "known_cash": "556",
+      "margin": "15.800",
+      "units": 17
+    },
+    "score": {
+      "charges_exact": true,
+      "matched": 3,
+      "expected": 3,
+      "returned": 3,
+      "totals_match": {
+        "expense": true,
+        "deposits": true,
+        "cash": true,
+        "units": true
+      },
+      "all_exact": true
+    }
+  },
+  {
+    "id": "pending-quote",
+    "charges": [
+      {
+        "line": 1,
+        "quote": "木版周末集，摊位费待入选后按位置另行报价。",
+        "kind": "pitch",
+        "amount": null,
+        "basis": "event"
+      },
+      {
+        "line": 2,
+        "quote": "场地押金 200 元，撤场验收合格后全额退回。",
+        "kind": "deposit",
+        "amount": "200",
+        "basis": "event"
+      }
+    ],
+    "totals": {
+      "expense": null,
+      "deposits": "200",
+      "cash": null,
+      "known_cash": "240",
+      "margin": "23",
+      "units": null
+    },
+    "score": {
+      "charges_exact": true,
+      "matched": 2,
+      "expected": 2,
+      "returned": 2,
+      "totals_match": {
+        "expense": true,
+        "deposits": true,
+        "cash": true,
+        "units": true
+      },
+      "all_exact": true
+    }
+  },
+  {
+    "id": "leicester",
+    "charges": [
+      {
+        "line": 2,
+        "quote": "A stall costs £13.16 per day.",
+        "kind": "pitch",
+        "amount": "13.16",
+        "basis": "day"
+      }
+    ],
+    "totals": {
+      "expense": "44.00",
+      "deposits": "0",
+      "cash": "44.00",
+      "known_cash": "44.00",
+      "margin": "4.00",
+      "units": 11
+    },
+    "score": {
+      "charges_exact": true,
+      "matched": 1,
+      "expected": 1,
+      "returned": 1,
+      "totals_match": {
+        "expense": true,
+        "deposits": true,
+        "cash": true,
+        "units": true
+      },
+      "all_exact": true
+    }
+  },
+  {
+    "id": "print-fair",
+    "charges": [
+      {
+        "line": 1,
+        "quote": "Printmakers' weekend. Pitch rental is £14.75 per day.",
+        "kind": "pitch",
+        "amount": "14.75",
+        "basis": "day"
+      },
+      {
+        "line": 2,
+        "quote": "A £25 deposit will be refunded after the stand inspection.",
+        "kind": "deposit",
+        "amount": "25",
+        "basis": "event"
+      }
+    ],
+    "totals": {
+      "expense": "37.00",
+      "deposits": "25",
+      "cash": "62.00",
+      "known_cash": "62.00",
+      "margin": "7.88",
+      "units": 5
+    },
+    "score": {
+      "charges_exact": true,
+      "matched": 2,
+      "expected": 2,
+      "returned": 2,
+      "totals_match": {
+        "expense": true,
+        "deposits": true,
+        "cash": true,
+        "units": true
+      },
+      "all_exact": true
+    }
+  }
+]

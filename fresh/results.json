@@ -1,0 +1,22 @@
+{
+  "run_sha256": "c8662de2c1031f5d8726579af50d454f9ac784ede755d8050274fa0a80b740c2",
+  "cases": [
+    {
+      "id": "cyanotype",
+      "totals": {
+        "expense": "152",
+        "deposits": "65",
+        "cash": "217",
+        "known_cash": "217",
+        "margin": "17.70",
+        "units": 9
+      },
+      "matched": false
+    },
+    {
+      "id": "thirsk",
+      "review": "无法确定该金额按天还是整场收取",
+      "matched": true
+    }
+  ]
+}

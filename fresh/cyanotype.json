@@ -1,0 +1,13 @@
+{
+  "content": "{\"labels\": [\"pitch\", \"deposit\", \"skip\"]}",
+  "finish_reason": "stop",
+  "usage": {
+    "completion_tokens": 16,
+    "prompt_tokens": 371,
+    "total_tokens": 387,
+    "prompt_tokens_details": {
+      "cached_tokens": 215
+    }
+  },
+  "user_input": "{\"situation\": \"一摊两天，两天都租小冰箱，预计合规撤场。\", \"notice\": [\"蓝晒日，两天全程场租 145 元。\", \"完成清场可以领回 65 元押金。\", \"小冰箱可选租用，每天 12 元。\"], \"candidates\": [{\"line\": 1, \"quote\": \"蓝晒日，两天全程场租 145 元。\"}, {\"line\": 2, \"quote\": \"完成清场可以领回 65 元押金。\"}, {\"line\": 3, \"quote\": \"小冰箱可选租用，每天 12 元。\"}]}"
+}

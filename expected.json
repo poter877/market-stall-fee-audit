@@ -1,0 +1,10 @@
+{
+  "kaohsiung": {"charges":[["pitch","0","event",3],["service","500","event",3]],"expense":"600","deposits":"0","cash":"600","units":8},
+  "macao": {"charges":[["registration","0","event",2]],"expense":null,"deposits":"0","cash":null,"units":null},
+  "manchester": {"charges":[["pitch","32.42","day",2],["extra_pitch","10.88","extra_stall_day",3]],"expense":"50.00","deposits":"0","cash":"50.00","units":8},
+  "no-power": {"charges":[["pitch","180","event",1],["deposit","300","event",2]],"expense":"216","deposits":"300","cash":"516","units":14},
+  "with-power": {"charges":[["pitch","180","event",1],["deposit","300","event",2],["service","20","day",3]],"expense":"256","deposits":"300","cash":"556","units":17},
+  "pending-quote": {"charges":[["pitch",null,"event",1],["deposit","200","event",2]],"expense":null,"deposits":"200","cash":null,"units":null},
+  "leicester": {"charges":[["pitch","13.16","day",2]],"expense":"44.00","deposits":"0","cash":"44.00","units":11},
+  "print-fair": {"charges":[["pitch","14.75","day",1],["deposit","25","event",2]],"expense":"37.00","deposits":"25","cash":"62.00","units":5}
+}

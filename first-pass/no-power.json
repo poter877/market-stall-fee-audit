@@ -1,0 +1,13 @@
+{
+  "content": "{\"charges\":[{\"kind\":\"pitch\",\"amount\":180,\"basis\":\"day\",\"line\":1,\"quote\":\"两日标准摊每摊 180 元，已含两天场租。\"},{\"kind\":\"deposit\",\"amount\":300,\"basis\":\"event\",\"line\":2,\"quote\":\"展具押金 300 元，按时归还且完好可全额退回。\"}]}",
+  "finish_reason": "stop",
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 387,
+    "total_tokens": 479,
+    "prompt_tokens_details": {
+      "cached_tokens": 283
+    }
+  },
+  "user_input": "摊主情境：一个摊位参加两天，不申请用电，展具将完好归还。\n公告节选：\n1. 纸上小集，两日标准摊每摊 180 元，已含两天场租。\n2. 展具押金 300 元，按时归还且完好可全额退回。\n3. 电源为选配，申请用电的摊位另付每天 20 元。"
+}

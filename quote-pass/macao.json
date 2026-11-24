@@ -1,0 +1,13 @@
+{
+  "content": "{\"pitch\":[{\"line\":1,\"quote\":\"春季塔石艺墟招募摊主及徵集创意手作坊\"},{\"line\":2,\"quote\":\"报名费用全免。\"}],\"extra_pitch\":[],\"registration\":[{\"line\":2,\"quote\":\"报名费用全免。\"}],\"service\":[],\"deposit\":[]}",
+  "finish_reason": "stop",
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 345,
+    "total_tokens": 420,
+    "prompt_tokens_details": {
+      "cached_tokens": 283
+    }
+  },
+  "user_input": "摊主情境：摊主想根据这段话估算一场摊租。目前只有选出的两行资料。\n公告节选：\n1. 春季塔石艺墟招募摊主及徵集创意手作坊\n2. 报名费用全免。"
+}

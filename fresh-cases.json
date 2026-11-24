@@ -1,0 +1,17 @@
+[
+  {
+    "id":"cyanotype", "name":"蓝晒日", "kind":"原创虚构公告", "currency":"CNY", "source":null,
+    "lines":["蓝晒日，两天全程场租 145 元。","完成清场可以领回 65 元押金。","小冰箱可选租用，每天 12 元。"],
+    "scenario":"一摊两天，两天都租小冰箱，预计合规撤场。", "days":2,"stalls":1,
+    "price":"30","unit_cost":"12","payment_rate":"0.01","own_fixed":"7",
+    "expected":{"charges":[["pitch","145","event",1],["deposit","65","event",2],["service","12","day",3]],"expense":"176","deposits":"65","cash":"241","units":10}
+  },
+  {
+    "id":"thirsk", "name":"英国瑟斯克按摊位宽度收费", "kind":"公开价目改写", "currency":"GBP",
+    "source":"https://www.northyorks.gov.uk/business-and-economy/commercial-services-and-venues/apply-market-pitch/apply-pitch-thirsk-market",
+    "lines":["Thirsk market casual pitch, 2026/27. The council charges £6.85 per metre, subject to a £27.40 minimum."],
+    "scenario":"One five-metre casual pitch for a trading day. No other events.",
+    "days":1,"stalls":1,"price":"15","unit_cost":"5","payment_rate":"0","own_fixed":"0",
+    "expected":{"review":true, "manual_pitch":"34.25", "reason":"价目按长度且有最低收费，超出本演示支持的计费单位。"}
+  }
+]

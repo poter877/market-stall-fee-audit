@@ -1,0 +1,13 @@
+{
+  "content": "{\"labels\": [\"pitch\"]}",
+  "finish_reason": "stop",
+  "usage": {
+    "completion_tokens": 9,
+    "prompt_tokens": 297,
+    "total_tokens": 306,
+    "prompt_tokens_details": {
+      "cached_tokens": 215
+    }
+  },
+  "user_input": "摊主情境：一个摊位，假设分别获准参加三个营业日。\n公告节选：\n1. Trading at Leicester Market\n2. A stall costs £13.16 per day.\n逐个分类的候选条款：[{\"line\": 2, \"quote\": \"A stall costs £13.16 per day.\"}]"
+}

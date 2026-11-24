@@ -1,0 +1,13 @@
+{
+  "content": "{\"charges\":[{\"kind\":\"pitch\",\"amount\":null,\"basis\":\"event\",\"line\":2,\"quote\":\"报名费用全免。\"}]}",
+  "finish_reason": "stop",
+  "usage": {
+    "completion_tokens": 34,
+    "prompt_tokens": 345,
+    "total_tokens": 379,
+    "prompt_tokens_details": {
+      "cached_tokens": 283
+    }
+  },
+  "user_input": "摊主情境：摊主想根据这段话估算一场摊租。目前只有选出的两行资料。\n公告节选：\n1. 春季塔石艺墟招募摊主及徵集创意手作坊\n2. 报名费用全免。"
+}

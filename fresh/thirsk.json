@@ -1,0 +1,13 @@
+{
+  "content": "{\"labels\": [\"pitch\", \"pitch\"]}",
+  "finish_reason": "stop",
+  "usage": {
+    "completion_tokens": 13,
+    "prompt_tokens": 342,
+    "total_tokens": 355,
+    "prompt_tokens_details": {
+      "cached_tokens": 215
+    }
+  },
+  "user_input": "{\"situation\": \"One five-metre casual pitch for a trading day. No other events.\", \"notice\": [\"Thirsk market casual pitch, 2026/27. The council charges £6.85 per metre, subject to a £27.40 minimum.\"], \"candidates\": [{\"line\": 1, \"quote\": \"2026/27. The council charges £6.85 per metre\"}, {\"line\": 1, \"quote\": \"subject to a £27.40 minimum.\"}]}"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "{\"pitch\":[{\"line\":1,\"quote\":\"木版周末集，摊位费待入选后按位置另行报价。\"},{\"line\":2,\"quote\":\"场地押金 200 元，撤场验收合格后全额退回。\"}],\"extra_pitch\":[],\"registration\":[],\"service\":[],\"deposit\":[{\"line\":2,\"quote\":\"场地押金 200 元，撤场验收合格后全额退回。\"}]}",
+  "finish_reason": "stop",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 357,
+    "total_tokens": 456,
+    "prompt_tokens_details": {
+      "cached_tokens": 283
+    }
+  },
+  "user_input": "摊主情境：一个摊位出摊一天。摊主还未收到报价，预计正常退还押金。\n公告节选：\n1. 木版周末集，摊位费待入选后按位置另行报价。\n2. 场地押金 200 元，撤场验收合格后全额退回。"
+}

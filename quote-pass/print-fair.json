@@ -1,0 +1,13 @@
+{
+  "content": "{\"pitch\":[{\"line\":1,\"quote\":\"Pitch rental is £14.75 per day.\"}],\"extra_pitch\":[],\"registration\":[],\"service\":[],\"deposit\":[{\"line\":2,\"quote\":\"A £25 deposit will be refunded after the stand inspection.\"}]}",
+  "finish_reason": "stop",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 368,
+    "total_tokens": 438,
+    "prompt_tokens_details": {
+      "cached_tokens": 283
+    }
+  },
+  "user_input": "摊主情境：One pitch for two days. No PA equipment requested. Assume the stand passes inspection.\n公告节选：\n1. Printmakers' weekend. Pitch rental is £14.75 per day.\n2. A £25 deposit will be refunded after the stand inspection.\n3. Optional PA hire is £9 per day if requested."
+}

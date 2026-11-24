@@ -1,0 +1,4 @@
+.local-skills/
+.venv/
+__pycache__/
+*.gguf

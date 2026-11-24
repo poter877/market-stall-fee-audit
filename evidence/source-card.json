@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"status\": \"ok\",\n  \"document_count\": 1,\n  \"documents\": [\n    {\n      \"title\": \"2026年Miaca’米啊炸原住民假日市集｜攤商徵求簡章\",\n      \"document_type\": null,\n      \"document_number\": null,\n      \"issuing_authorities\": [\"高雄市政府原住民事務委員會\"],\n      \"issue_date\": null,\n      \"recipients\": [],\n      \"main_matter\": \"高雄市政府原住民事務委員會举办2026年Miaca’米啊炸原住民假日市集，摊位免租金，摊商须缴交清洁费500元/2天。\",\n      \"effective_date\": null,\n      \"tasks\": [],\n      \"contacts\": [],\n      \"missing_fields\": [\n        \"document_type\",\n        \"document_number\",\n        \"issue_date\",\n        \"recipients\",\n        \"effective_date\",\n        \"tasks\",\n        \"contacts\"\n      ],\n      \"evidence\": {\n        \"title\": \"2026年Miaca’米啊炸原住民假日市集｜攤商徵求簡章\",\n        \"issuing_authorities\": \"主辦機關：高雄市政府原住民事務委員會\",\n        \"main_matter\": \"每攤位免租金，但須繳交清潔費500元/2天。\"\n      }\n    }\n  ],\n  \"warnings\": []\n}",
+  "finish_reason": "stop",
+  "usage": {
+    "completion_tokens": 341,
+    "prompt_tokens": 1044,
+    "total_tokens": 1385,
+    "prompt_tokens_details": {
+      "cached_tokens": 1039
+    }
+  },
+  "user_input": "按技能的原始 JSON 结构整理这份节选。\n2026年Miaca’米啊炸原住民假日市集｜攤商徵求簡章\n主辦機關：高雄市政府原住民事務委員會\n每攤位免租金，但須繳交清潔費500元/2天。"
+}

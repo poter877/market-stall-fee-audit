@@ -1,0 +1,13 @@
+{
+  "content": "{\"charges\":[{\"kind\":\"pitch\",\"amount\":32.42,\"basis\":\"day\",\"line\":2,\"quote\":\"On Tuesday the first stall costs £32.42 per day.\"},{\"kind\":\"extra_pitch\",\"amount\":10.88,\"basis\":\"extra_stall_day\",\"line\":3,\"quote\":\"An additional stall on Tuesday costs another £10.88 per day.\"}]}",
+  "finish_reason": "stop",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 374,
+    "total_tokens": 468,
+    "prompt_tokens_details": {
+      "cached_tokens": 283
+    }
+  },
+  "user_input": "摊主情境：周二出摊一天，租两个摊位，第二个是附加摊位。\n公告节选：\n1. Manchester • Longsight market, casual trading. The figures below are daily charges including VAT.\n2. On Tuesday the first stall costs £32.42 per day.\n3. An additional stall on Tuesday costs another £10.88 per day."
+}
